@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(197, 197, 197);
+    border-bottom: 2px;
+    border-style: solid;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.logo{
+    width: 100px;
+}
+
+a.BOTAO{
+    margin-top: 50px;
+}
+
+.config{
+    width: 15px;
+}
+
+.artigo{
+    border: solid 1px black;
+    padding: 5px;
+}
+
+div.card{
+    padding: 30px 20px 30px;
+    margin: 10px;
+    border: solid 1px black;
+    background-color: #113;
+    text-align: center;
+    color: #fff;
+}
+
+.complete_card{
+    border: solid 1px black;
+    margin-top: 20px;
+}
+
+.frases_dia{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer{
+    background-color: darkgrey;
+    text-align: center;
+}

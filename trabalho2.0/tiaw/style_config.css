@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(197, 197, 197);
+    border-bottom: 2px;
+    border-style: solid;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+img.home{
+        width: 70px;
+}
+
+.logo{
+    width: 100px;
+}
+.card-config{
+    text-align: center;
+    border: 2px solid orangered;
+    margin: 20px 0px;
+    padding: 10px 5px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 300px;
+}
+
+img.perfil{
+    margin: 15px 2px;
+    padding: 10px 5px;
+    border-bottom: 2px solid orangered;
+}
+
+a.sair{
+    align-self: center;
+    background-color: orangered;
+}
+
+a.BOTAO2{
+    margin-top: 40px;
+}
+
+a.BOTAO{
+    margin-top: 50px;
+}
+
+footer{
+    background-color: darkgrey;
+    text-align: center;
+}
